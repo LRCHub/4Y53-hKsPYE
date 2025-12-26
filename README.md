@@ -1,0 +1,61 @@
+# Rihanna – Pose
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Stare at me
+In your Jesus Christ pose
+Arms held out
+Like you've been carrying a load
+And you swear to me
+You don't wanna be my slave
+But you're staring at me
+Like I...
+Like I need to be...
+Saved
+Saved
+Like I need to be...
+Saved
+Saved
+
+In the Jesus Christ pose
+Jesus Christ pose
+
+Arms held out
+In your Jesus Christ pose
+Thorns and shroud
+Like it's the coming of the Lord
+And I swear to you
+That I would never feed you pain
+But you're staring at me
+Like I...
+Like I'm driving the...
+Nails
+Nails
+Like I'm driving the...
+Nails
+Nails
+Like I'm driving the...
+Nails
+Nails
+Nails
+Nails
+Nails
+
+Jesus Christ
+Jesus Christ
+Jesus Christ
+Jesus Christ the light
+
+Arms held out
+In your Jesus Christ pose
+Thorns and shroud
+Like it's the coming of the lord
+Would it pay you more to walk on water
+Than to wear a crown of thorns
+It wouldn't pain me more to bury you fucking rich
+Than to bury you poor
+Poor
+Poor
+Poor
+```
