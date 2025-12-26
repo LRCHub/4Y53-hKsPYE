@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Pose",
+  "base_artist": "Rihanna",
+  "createdAt": "2025-12-26T16:43:19.142910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strike a Pose",
+      "artist": "TWRP",
+      "has_synced": true,
+      "path": "select/01_Strike_a_Pose_TWRP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pose",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/02_Pose_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pose",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/03_Pose_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pose",
+      "artist": "Umberto Tozzi",
+      "has_synced": false,
+      "path": "select/04_Pose_Umberto_Tozzi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose - Remastered",
+      "artist": "Soundgarden",
+      "has_synced": true,
+      "path": "select/05_Jesus_Christ_Pose_-_Remastered_Soundgarden.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose",
+      "artist": "Soundgarden",
+      "has_synced": true,
+      "path": "select/06_Jesus_Christ_Pose_Soundgarden.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strike a Pose (feat. Aitch)",
+      "artist": "Young T & Bugsey feat. Aitch",
+      "has_synced": true,
+      "path": "select/07_Strike_a_Pose_(feat._Aitch)_Young_T_&_Bugsey_feat._Aitch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strike a Pose",
+      "artist": "Young T/Bugsey/Aitch",
+      "has_synced": true,
+      "path": "select/08_Strike_a_Pose_Young_T_Bugsey_Aitch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pose (Bonus Track)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/09_Pose_(Bonus_Track)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose - Live At The Paramount Theatre, Seattle/1992",
+      "artist": "Soundgarden",
+      "has_synced": false,
+      "path": "select/10_Jesus_Christ_Pose_-_Live_At_The_Paramount_Theatre,_Seattle_1992_Soundgarden.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose (live at the Paramount Theatre, Seattle \u0000 1992)",
+      "artist": "Soundgarden",
+      "has_synced": false,
+      "path": "select/11_Jesus_Christ_Pose_(live_at_the_Paramount_Theatre,_Seattle_\u0000_1992)_Soundgarden.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose - Studio Outtake",
+      "artist": "Soundgarden",
+      "has_synced": false,
+      "path": "select/12_Jesus_Christ_Pose_-_Studio_Outtake_Soundgarden.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "JoJo Pose",
+      "artist": "Apollo Fresh",
+      "has_synced": true,
+      "path": "select/13_JoJo_Pose_Apollo_Fresh.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose - Live At Kaiser Convention Center, Oakland/1996",
+      "artist": "Soundgarden",
+      "has_synced": false,
+      "path": "select/14_Jesus_Christ_Pose_-_Live_At_Kaiser_Convention_Center,_Oakland_1996_Soundgarden.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jesus Christ Pose (live at Kaiser Convention Center, Oakland\u00001996)",
+      "artist": "Soundgarden",
+      "has_synced": false,
+      "path": "select/15_Jesus_Christ_Pose_(live_at_Kaiser_Convention_Center,_Oakland\u00001996)_Soundgarden.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pose",
+      "artist": "Rihanna",
+      "has_synced": false,
+      "path": "select/pl_01_Pose_Rihanna.txt"
+    }
+  ]
+}
